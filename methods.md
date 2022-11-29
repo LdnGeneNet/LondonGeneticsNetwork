@@ -35,6 +35,6 @@ Dr Andrea Allegrini is a postdoctoral researcher in the <a href="http://www.jean
 <p align="left">
   <img src="{{ "/" | relative_url }}assets/Chris_Rayner.jpeg" width="180" />
   </p>
-Chris Rayner is a postdoctoral research associate at the <a href="https://www.kcl.ac.uk/people/christopher-rayner" rel="noopener noreferrer" target="_blank">Social Genetic & Developmental Psychiatry Centre/a>, KCL. He is researching the role of gene environment interaction on complex traits.
+Chris Rayner is a postdoctoral research associate at the <a href="https://www.kcl.ac.uk/people/christopher-rayner" rel="noopener noreferrer" target="_blank">Social Genetic & Developmental Psychiatry Centre</a>, KCL. He is researching the role of gene environment interaction on complex traits.
 
 <br>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Annual Meeting 2022 - Register now!
+title: Annual Meeting 2022 - Registration closed!
 ---
 
 <p align="center">
@@ -9,9 +9,8 @@ title: Annual Meeting 2022 - Register now!
 
 # Registration 
 
-Registration is now open for the London Genetics Network annual meeting on **Friday December 2nd 2022**.
+We are fully booked for the London Genetics Network annual meeting on **Friday December 2nd 2022**!
 
-## <a href="https://www.eventbrite.com/e/london-genetics-network-annual-meeting-tickets-438940742577" rel="noopener noreferrer" target="_blank">Click here to register on Eventbrite.</a>
 
 We are delighted to announce an amazing schedule of outstanding speakers from London institutions (see below)
 
@@ -34,8 +33,8 @@ The post-meeting social will start at 5.15pm.
 | 12.20-1.10 	| *LUNCH BREAK* <br> Rooms 252/253/254 (second floor)  |
 | 1.10-1.20     | Dr Valentina Cipriani (QMUL; LGN Meeting committee member) <br> Afternoon introduction and rare disease genetics   |
 | 1.20-2.00  	| **KEYNOTE - Professor Marta Korbonits (QMUL) <br> Genes and giants – what do we know of the genetics of familial pituitary tumours**   |
-| 2.00-2.45   	| ECRs from the London Genetics Network <br> ECR FLASH TALKS |
-| 2.45-3.15 	| *COFFEE BREAK* <br> Rooms 252/253/254 (second floor)  |
+| 2.00-2.55   	| ECRs from the London Genetics Network <br> ECR FLASH TALKS |
+| 2.55-3.15 	| *COFFEE BREAK* <br> Rooms 252/253/254 (second floor)  |
 | 3.15-3.35   	| Dr Chloe Austerberry (Birkbeck/UCL) <br> Do children’s education-associated genetics predict the parenting they receive? |
 | 3.35-3.55   	| Prof Patricia Munroe (QMUL) <br> Deciphering hypertension effector genes from large-scale genetic studies    |
 | 3.55-4.15   	| Dr Tom McAdams (KCL) <br> Towards a Deeper Understanding of Nature and Nurture: Combining Family-Based Quasi Experimental Methods with Genomic Data  |

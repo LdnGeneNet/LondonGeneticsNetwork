@@ -44,7 +44,15 @@ Dr Valentina Cipriani is a Senior Lecturer in Statistical Genomics at the <a hre
 Her research aims to help elucidate the genetic determinants of both common complex and rare Mendelian human diseases by using cutting-edge computational tools in genotyping and sequencing association studies.
 
 # Methods Meetings Organisers
-We have the opportunity for people to organise the monthly Methods meetings. Tasks include moderating sessions, inviting speakers and suggesting/presenting papers in the journal club sessions. For more infos see <a href="https://www.londongeneticsnetwork.com/methods/">Methods Meetings</a>. If you are interested, contact us via <a href="mailto:londongeneticsnetwork@gmail.com">londongeneticsnetwork@gmail.com</a>.
+
+### Dr Andrea Allegrini
+Dr Andrea Allegrini is a postdoctoral researcher in the <a href="http://www.jeanbaptistepingault.com/people/" rel="noopener noreferrer" target="_blank">CMAP lab</a> at UCL.
+
+### Dr Christopher Rayner
+<p align="left">
+  <img src="{{ "/" | relative_url }}assets/Chris_Rayner.jpeg" width="180" />
+  </p>
+Chris Rayner is a postdoctoral research associate at the <a href="https://www.kcl.ac.uk/people/christopher-rayner" rel="noopener noreferrer" target="_blank">Social Genetic & Developmental Psychiatry Centre/a>, KCL. He is researching the role of gene environment interaction on complex traits.
 
 <br>
 

@@ -29,7 +29,10 @@ Meetings with invited speakers: <https://osf.io/4cqwf/>
 ## Organisers
 
 ### Dr Andrea Allegrini
-Dr Andrea Allegrini is a postdoctoral researcher in the <a href="http://www.jeanbaptistepingault.com/people/" rel="noopener noreferrer" target="_blank">CMAP lab</a> at UCL.
+<p align="left">
+  <img src="{{ "/" | relative_url }}assets/AAllegrini.png" width="180" />
+  </p>
+Dr Andrea Allegrini is a postdoctoral researcher in the <a href="http://www.jeanbaptistepingault.com/people/" rel="noopener noreferrer" target="_blank">CMAP lab</a> at UCL. His research focuses on genetically informative methods to investigate developmental psychopathology.
 
 ### Dr Christopher Rayner
 <p align="left">

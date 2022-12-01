@@ -9,7 +9,7 @@ title: Annual Meeting 2022 - Registration closed!
 
 # Registration 
 
-We are fully booked for the London Genetics Network annual meeting on **Friday December 2nd 2022**!
+We are fully booked for the London Genetics Network annual meeting on **Friday December 2nd 2022** at Birkbeck, University of London (main building: entrance on Torrington Square, London WC1E 7HX)!
 
 
 We are delighted to announce an amazing schedule of outstanding speakers from London institutions (see below)

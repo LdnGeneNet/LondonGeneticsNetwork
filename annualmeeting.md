@@ -123,7 +123,7 @@ Her research interests lie in the interface of genetics, bioinformatics and arti
 
 # Sponsor
 
-London Genetics Network is a Special Interest group funded by [The Genetics Society](https://genetics.org.uk)
+London Genetics Network is a Special Interest group funded by [The Genetics Society](https://genetics.org.uk) and also received support from the Genomics England Diverse Data Initiative.
 
 <p align="center">
   <img src="{{ "/" | relative_url }}assets/GS LogoFCOL-01.png" width="380" /> <br><br><br>

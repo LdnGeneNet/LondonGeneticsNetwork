@@ -22,4 +22,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'jekyll-paginate-v2'
 
 
-gem "webrick", "~> 1.7"g
+gem "webrick", "~> 1.7"
+gem 'jekyll-twitter-plugin', '~> 2.1'

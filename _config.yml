@@ -23,4 +23,4 @@ pagination:
   indexpage: 'blog'
 
 # Plugins
-gems: ['jekyll-twitter-plugin']
+#plugins: ['jekyll-twitter-plugin']

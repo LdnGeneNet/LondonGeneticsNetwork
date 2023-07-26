@@ -23,4 +23,3 @@ gem 'jekyll-paginate-v2'
 
 
 gem "webrick", "~> 1.7"
-gem "jekyll-twitter-plugin", "~> 2.1"

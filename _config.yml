@@ -11,7 +11,7 @@ tagline:     ''
 description: ''
 url:         https://github.com/LdnGeneNet/LondonGeneticsNetwork/
 baseurl:     /
-lastmod:    '25 July 2023'
+lastmod:    '26 July 2023'
 
 author:
   name:      'London Genetics Network'
@@ -23,4 +23,4 @@ pagination:
   indexpage: 'blog'
 
 # Plugins
-gems: ['jekyll-twitter-plugin']
+plugins: ['jekyll-twitter-plugin']

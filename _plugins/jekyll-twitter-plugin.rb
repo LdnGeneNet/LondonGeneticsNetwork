@@ -12,7 +12,7 @@ require "digest"
 # https://github.com/rob-murray/jekyll-twitter-plugin
 #
 module TwitterJekyll
-  VERSION = "2.1.0".freeze
+  VERSION = "2.0.0".freeze
   REFER_TO_README   = "Please see 'https://github.com/rob-murray/jekyll-twitter-plugin' for usage.".freeze
   LIBRARY_VERSION   = "jekyll-twitter-plugin-v#{VERSION}".freeze
   REQUEST_HEADERS   = { "User-Agent" => LIBRARY_VERSION }.freeze

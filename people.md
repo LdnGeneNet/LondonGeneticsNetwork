@@ -29,7 +29,7 @@ Leo is a PhD student in the <a href="http://www.jeanbaptistepingault.com/people/
 <p align="left">
   <img src="{{ "/" | relative_url }}assets/Chris_Lo.jpeg" width="180" />
   </p>
-Chris is a PhD student in the <a href="https://www.kcl.ac.uk/mental-health-and-psychological-sciences/about/departments/social-genetic-and-developmental-psychiatry" rel="noopener noreferrer" target="_blank">Social, Genetic and Developmental Psychiatry Centre</a> at King's College London. He is currently looking to the genetics of antidepressant response using clinical studies and electronic health records.
+Chris is a PhD student and a research assistant in the <a href="https://www.kcl.ac.uk/mental-health-and-psychological-sciences/about/departments/social-genetic-and-developmental-psychiatry" rel="noopener noreferrer" target="_blank">Social, Genetic and Developmental Psychiatry Centre</a> at King's College London, supervised by Professor Cathryn Lewis. He is currently looking into the genetics of antidepressant response using clinical studies and electronic health records.
 
 
 # Early Career Researcher Rep

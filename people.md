@@ -25,6 +25,13 @@ Karoline Kuchenbaecker is <a href="https://www.uclhumgen.com/people/karoline/" r
   </p>
 Leo is a PhD student in the <a href="http://www.jeanbaptistepingault.com/people/" rel="noopener noreferrer" target="_blank">CMAP lab</a> at UCL. He studies the intergenerational transmission of risk for externalising behaviours using genetically informed methods.
 
+### Chris Lo
+<p align="left">
+  <img src="{{ "/" | relative_url }}assets/Chris_Lo.jpeg" width="180" />
+  </p>
+Chris is a PhD student in the <a href="https://www.kcl.ac.uk/mental-health-and-psychological-sciences/about/departments/social-genetic-and-developmental-psychiatry" rel="noopener noreferrer" target="_blank">Social, Genetic and Developmental Psychiatry Centre</a> at King's College London. He is currently looking to the genetics of antidepressant response using clinical studies and electronic health records.
+
+
 # Early Career Researcher Rep
 
 ### Dr Eirini Marouli

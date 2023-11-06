@@ -22,4 +22,12 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'jekyll-paginate-v2'
 
 
+<<<<<<< HEAD
 gem "webrick", "~> 1.7"
+=======
+gem "webrick", "~> 1.7"
+gem "tzinfo", "~> 1.2.10"
+gem "commonmarker", "~> 0.23.6"
+gem "nokogiri", "~> 1.13.9"
+gem "activesupport", "~> 6.1.7.1"
+>>>>>>> 2ee0c3cfc03e83ba510574adf964bcfe022773d7

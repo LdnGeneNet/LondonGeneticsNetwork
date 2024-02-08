@@ -1,6 +1,6 @@
 ---
 layout: page
-title: London Genetics Network Upcoming Meeting - Science and New Beginnings
+title: London Genetics Network Meeting - Science and New Beginnings
 ---
 
 <p align="center">
@@ -51,7 +51,7 @@ There will be a **post-meeting drinks reception** from 5 to 7 pm.
 
 # London Genetics Network Meeting 2024 <br> Theme: Science and New Beginnings
 
-| Time              	| Speakers                                               | Agenda                                                                                  	|
+| Time              	| Speakers                                                                                                              | Agenda                                                                                  	|
 |--------------------	| ------------------------------------------------------------------------                                              |-------------------------------------------------------------------------------------------------	|
 | 12.30-13.30           | N/A | *Lunch & networking* |
 | 13.30-13.40        | **Professor Angelica Ronald** <br> Surrey; LGN Co-founder | Introduction to LGN and afternoon's events   |

@@ -21,11 +21,7 @@ We are delighted to announce that **registration is now open** for the special t
 
 For 2024 we are celebrating **new beginnings** – all our speakers have recently moved institution or moved between academic and industry.
 
-<br>
-
 We are thrilled to announce a fantastic schedule of outstanding speakers from London institutions in London and the surrounding areas (see below).
-
-<br>
 
 Following the science talks, there will be an opportunity to ask questions about careers at a Q&A panel discussion with a diverse panel of researchers working in human genetics who have recently made a career change (institution, country, industry, etc).
 
@@ -51,8 +47,11 @@ There will be a **post-meeting drinks reception** from 5 to 7 pm.
 
 # London Genetics Network Meeting 2024 <br> Theme: Science and New Beginnings
 
+***
+
+
 | Time              	| Speakers                                                                                                              | Agenda                                                                                  	|
-|--------------------	| ------------------------------------------------------------------------                                              |-------------------------------------------------------------------------------------------------	|
+|--------------------	| ------------------------------------------------------------------------------------------------------------------------------- |------------------------------------------------------------------------------------------------------------------	|
 | 12.30-13.30           | N/A | *Lunch & networking* |
 | 13.30-13.40        | **Professor Angelica Ronald** <br> Surrey; LGN Co-founder                                                                 | Introduction to LGN and afternoon's events   |
 | 13.40-14.15  	| **Professor Naomi Wray** <br> Oxford                                                                                           | Science talk: Genetics of gut vs brain disorders |

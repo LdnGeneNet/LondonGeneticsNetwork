@@ -11,9 +11,9 @@ title: London Genetics Network Meeting - Science and New Beginnings
 
 Dear all,
 
-We are delighted to announce that **Registration is now open** for the a special themed <a href="https://www.londongeneticsnetwork.com/" rel="noopener noreferrer" target="_blank">London Genetics Network</a> meeting on **Monday, April 29th, from 12 pm.**
+We are delighted to announce that **registration is now open** for the special themed <a href="https://www.londongeneticsnetwork.com/" rel="noopener noreferrer" target="_blank">London Genetics Network</a> meeting on **Monday, April 29th, from 12 pm.**
 
-<a href="https://www.eventbrite.com/e/827324859927?aff=oddtdtcreator" rel="noopener noreferrer" target="_blank">**Eventbrite link to signing up for the event**</a>
+<a href="https://www.eventbrite.com/e/827324859927?aff=oddtdtcreator" rel="noopener noreferrer" target="_blank">**Eventbrite link to sign up for the event**</a>
 
 ***
 
@@ -54,14 +54,14 @@ There will be a **post-meeting drinks reception** from 5 to 7 pm.
 | Time              	| Speakers                                                                                                              | Agenda                                                                                  	|
 |--------------------	| ------------------------------------------------------------------------                                              |-------------------------------------------------------------------------------------------------	|
 | 12.30-13.30           | N/A | *Lunch & networking* |
-| 13.30-13.40        | **Professor Angelica Ronald** <br> Surrey; LGN Co-founder | Introduction to LGN and afternoon's events   |
-| 13.40-14.15  	| **Professor Naomi Wray** <br> Oxford | Science talk: Genetics of gut vs brain disorders |
-| 14.15-14.40 	| **Professor Michael Simpson** <br> KCL |         Science talk: Understanding the genetic contribution to inflammatory skin diseases: Susceptibility, severity, and the path to improved disease management |
-| 14.40-15.00 	| **Dr Oliver Pain** <br> KCL |         Science talk: GenoPred and GenoDisc: Reproducible workflows leveraging GWAS summary statistics for polygenic prediction and novel functional insights    |
+| 13.30-13.40        | **Professor Angelica Ronald** <br> Surrey; LGN Co-founder                                                                 | Introduction to LGN and afternoon's events   |
+| 13.40-14.15  	| **Professor Naomi Wray** <br> Oxford                                                                                           | Science talk: Genetics of gut vs brain disorders |
+| 14.15-14.40 	| **Professor Michael Simpson** <br> KCL                                                                                         |         Science talk: Understanding the genetic contribution to inflammatory skin diseases: Susceptibility, severity, and the path to improved disease management |
+| 14.40-15.00 	| **Dr Oliver Pain** <br> KCL                                                                                                    |         Science talk: GenoPred and GenoDisc: Reproducible workflows leveraging GWAS summary statistics for polygenic prediction and novel functional insights    |
 | 15.00-15.30 	| N/A |  *COFFEE BREAK*              |
 | 15.30-15.55 	| *TBC* | *Science talk: TBC*    |
-| 15:55-16:30 	| **Professor Peter Visscher** <br> Oxford | Science talk: Reconciling linkage and association studies of complex traits     |
-| 16.30-17:00   	| <u>Q&A and Panel Discussion</u> <br> **Prof Naomi Wray, Prof Michael Simpson, <br> Dr Oliver Pain, Prof Peter Visscher <br> and Prof Angelica Ronald** | Topics will include moving between academia and industry, the art of changing institutions, relocating across the world, and more! |
+| 15:55-16:30 	| **Professor Peter Visscher** <br> Oxford                                                                                       | Science talk: Reconciling linkage and association studies of complex traits     |
+| 16.30-17:00   	| <u>Q&A and Panel Discussion</u> <br> **Prof Naomi Wray, Prof Michael Simpson, <br> Dr Oliver Pain, Prof Peter Visscher <br> and Prof Angelica Ronald**                                                          | Topics will include moving between academia and industry, the art of changing institutions, relocating across the world, and more! |
 | 17.00-19.00   	| N/A | *Drinks, nibbles and networking*   |
 
 

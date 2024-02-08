@@ -7,7 +7,7 @@ title: London Genetics Network Upcoming Meeting - Science and New Beginnings
   <img src="{{ "/" | relative_url }}assets/annualmeeting.jpg" width="100%" style="margin: 0px 0px"/>
   </p>
 
-</br>
+<br>
 
 Dear all,
 
@@ -21,11 +21,11 @@ We are delighted to announce that **Registration is now open** for the a special
 
 For 2024 we are celebrating **new beginnings** – all our speakers have recently moved institution or moved between academic and industry.
 
-</br>
+<br>
 
 We are thrilled to announce a fantastic schedule of outstanding speakers from London institutions in London and the surrounding areas (see below).
 
-</br>
+<br>
 
 Following the science talks, there will be an opportunity to ask questions about careers at a Q&A panel discussion with a diverse panel of researchers working in human genetics who have recently made a career change (institution, country, industry, etc).
 
@@ -54,14 +54,14 @@ There will be a **post-meeting drinks reception** from 5 to 7 pm.
 | Time              	| Speakers                                                                | Agenda                                                                                  	|
 |--------------------	| ------------------------------------------------------------------------                                              |-------------------------------------------------------------------------------------------------	|
 | 12.30-13.30           | N/A | *Lunch & networking* |
-| 13.30-13.40        | **Professor Angelica Ronald <br> Surrey; LGN Co-founder** | Introduction to LGN and afternoon's events   |
-| 13.40-14.15  	| **Professor Naomi Wray <br> Oxford** | Science talk: Genetics of gut vs brain disorders |
-| 14.15-14.40 	| **Professor Michael Simpson <br> KCL** |         Science talk: Understanding the genetic contribution to inflammatory skin diseases: Susceptibility, severity, and the path to improved disease management |
-| 14.40-15.00 	| **Dr Oliver Pain <br> KCL** |         Science talk: GenoPred and GenoDisc: Reproducible workflows leveraging GWAS summary statistics for polygenic prediction and novel functional insights    |
+| 13.30-13.40        | **Professor Angelica Ronald** <br> Surrey; LGN Co-founder | Introduction to LGN and afternoon's events   |
+| 13.40-14.15  	| **Professor Naomi Wray** <br> Oxford | Science talk: Genetics of gut vs brain disorders |
+| 14.15-14.40 	| **Professor Michael Simpson** <br> KCL |         Science talk: Understanding the genetic contribution to inflammatory skin diseases: Susceptibility, severity, and the path to improved disease management |
+| 14.40-15.00 	| **Dr Oliver Pain** <br> KCL |         Science talk: GenoPred and GenoDisc: Reproducible workflows leveraging GWAS summary statistics for polygenic prediction and novel functional insights    |
 | 15.00-15.30 	| N/A |  *COFFEE BREAK*              |
 | 15.30-15.55 	| *TBC* | *Science talk: TBC*    |
-| 15:55-16:30 	| **Professor Peter Visscher <br> Oxford** | Science talk: Reconciling linkage and association studies of complex traits     |
-| 16.30-17:00   	| <u>Q&A and Panel Discussion</u> <br> **Prof Naomi Wray, Prof Michael Simpson, Dr Oliver Pain, Prof Peter Visscher and Prof Angelica Ronald** | Topics will include moving between academia and industry, the art of changing institutions, relocating across the world, and more! |
+| 15:55-16:30 	| **Professor Peter Visscher** <br> Oxford | Science talk: Reconciling linkage and association studies of complex traits     |
+| 16.30-17:00   	| <u>Q&A and Panel Discussion</u> <br> **Prof Naomi Wray, Prof Michael Simpson, <br> Dr Oliver Pain, Prof Peter Visscher <br> and Prof Angelica Ronald** | Topics will include moving between academia and industry, the art of changing institutions, relocating across the world, and more! |
 | 17.00-19.00   	| N/A | *Drinks, nibbles and networking*   |
 
 

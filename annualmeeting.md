@@ -42,7 +42,7 @@ The university is a short walk from Guildford train station. There will be parki
 The directions to the Austin Pearce Building, University of Surrey can be found as follows:
 
 <p align="left">
-  <img src="{{ "/" | relative_url }}meeting_info/surrey_map.png" width="380" />
+  <img src="{{ "/" | relative_url }}meeting_info/surrey_map.png" width="1000" />
   </p>
 
 <br>

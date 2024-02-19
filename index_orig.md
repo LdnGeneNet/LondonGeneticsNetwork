@@ -26,10 +26,10 @@ The London Genetics Network is funded by the <a href="https://genetics.org.uk" r
 
 # Our Twitter feed
 
-{% twitter https://twitter.com/LdnGeneNet align=center maxwidth=500 limit=3 %}
+{% twitter https://twitter.com/LdnGeneNet align=center maxwidth=500 limit=5 %}
 
 #alt: <div class='jekyll-twitter-plugin' align="center">
-    {% twitter https://twitter.com/LdnGeneNet maxwidth=500 limit=3 %}
+    {% twitter https://twitter.com/LdnGeneNet maxwidth=500 limit=5 %}
 </div>
 
 #alt2: <a class="twitter-timeline" href="https://twitter.com/LdnGeneNet?ref_src=twsrc%5Etfw">Tweets by LdnGeneNet</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

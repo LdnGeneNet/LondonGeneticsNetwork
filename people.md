@@ -56,13 +56,13 @@ Chris Rayner is a postdoctoral research associate at the <a href="https://www.kc
 
 Leonard Frach, University College London - Communications Manager 2022-2023
 
-Kai Xiang Lim, King's College London - Communications Manager 2020-2022
+Dr Kai Xiang Lim, King's College London - Communications Manager 2020-2022
 
 Dr Eirini Marouli, Queen Mary University of London - Early Career Researcher Rep 2022
 
 Dr Ryan Arathimos, King's College London - Early Career Researcher Rep 2021
 
-Chloe Austerberry, University College London - Early Career Researcher Rep 2020
+Dr Chloe Austerberry, University College London - Early Career Researcher Rep 2020
 
 Aislinn Bowler, Birkbeck College, University of London - Early Career Researcher Rep 2020
 

@@ -11,35 +11,45 @@ title: London Genetics Network Meeting - Science and New Beginnings
 
 Dear all,
 
-We are delighted to announce that **registration is now open** for the special themed <a href="https://www.londongeneticsnetwork.com/" rel="noopener noreferrer" target="_blank">London Genetics Network</a> meeting on **Monday, April 29th, from 12 pm!**
+We are delighted to announce that **registration is now open** for the special themed <a href="https://www.londongeneticsnetwork.com/" rel="noopener noreferrer" target="_blank">London Genetics Network</a> meeting on **Monday, April 29th, from 12.30 pm!**
 
 ***
 
 # About this event
 
-For 2024 we are celebrating **new beginnings** – all our speakers have recently moved institution or moved between academic and industry.
+For 2024 we are celebrating **new beginnings** – all our speakers have recently moved institution or moved between academia and industry.
 
-We are thrilled to announce a fantastic schedule of outstanding speakers from London institutions in London and the surrounding areas (see below).
+We are thrilled to announce a fantastic schedule of outstanding speakers from institutions in London and the surrounding areas (see below).
 
-Following the science talks, there will be an opportunity to ask questions about careers at a Q&A panel discussion with a diverse panel of researchers working in human genetics who have recently made a career change (institution, country, industry, etc).
+Following the science talks, there will be an opportunity to ask questions about careers at a Q&A panel discussion with a panel of researchers working in human genetics who have recently made a career change (institution, country, industry, etc).
 
-There will be networking opportunities during the lunch and coffee breaks, and the event will be followed by a drinks reception!
+There will be networking opportunities during the lunch and coffee break, and the event will be followed by a drinks reception!
 
 <br>
 
 # Venue
 
-The event will be held at the University of Surrey, Guildford, Surrey, GU2 7XH.
+The event will be held at the **Lecture theatre, Austin Pearce (AP) Building, University of Surrey, Guildford, Surrey, GU2 7XH**.
 
 The University of Surrey is easily accessible; there are direct trains from London Waterloo and Clapham Junction. 
 
-The university is a short walk from Guildford train station.
+The university is a short walk from Guildford train station. There will be parking spaces near the university.
+
+<br>
+
+# Finding us
+
+The directions to the Austin Pearce Building, University of Surrey can be found as follows:
+
+<p align="left">
+  <img src="{{ "/" | relative_url }}meeting_info/surrey_map.png" width="380" />
+  </p>
 
 <br>
 
 # Post-meeting social
 
-There will be a **post-meeting drinks reception** from 5 to 7 pm.
+There will be a **post-meeting drinks reception** from 5 to 7 pm on the foyer by the venue.
 
 <br>
 
@@ -50,14 +60,14 @@ There will be a **post-meeting drinks reception** from 5 to 7 pm.
 
 | Time              	| Speakers                                                                                                              | Agenda                                                                                  	|
 |--------------------	| ------------------------------------------------------------------------------------------------------------------------------- |-------------------------------------------------------------------------------	|
-| 12.30-13.30           | N/A | *Lunch & networking* |
-| 13.30-13.40        | **Professor Angelica Ronald** <br> Surrey; LGN Co-founder                                                                 | Introduction to LGN and afternoon's events   |
-| 13.40-14.15  	| **Professor Naomi Wray** <br> Oxford                                                                                           | Science talk: Genetics of gut vs brain disorders |
-| 14.15-14.40 	| **Professor Michael Simpson** <br> KCL                                                                                         |         Science talk: Understanding the genetic contribution to inflammatory skin diseases: Susceptibility, severity, and the path to improved disease management |
-| 14.40-15.00 	| **Dr Oliver Pain** <br> KCL                                                                                                    |         Science talk: GenoPred and GenoDisc: Reproducible workflows leveraging GWAS summary statistics for polygenic prediction and novel functional insights    |
-| 15.00-15.30 	| N/A |  *COFFEE BREAK*              |
-| 15.30-15.55 	| *TBC* | *Science talk: TBC*    |
-| 15:55-16:30 	| **Professor Peter Visscher** <br> Oxford                                                                                       | Science talk: Reconciling linkage and association studies of complex traits     |
+| 12.30-13.30           | N/A | *Lunch (vegan, vegetarian and non-vegetarian options available) & networking* |
+| 13.30-13.40        | **Professor Angelica Ronald** <br> University of Surrey; LGN Co-founder                                                                 | Introduction to LGN and afternoon's events   |
+| 13.40-14.15  	| **Professor Naomi Wray** <br> University of Oxford                                                                                           | Science talk: Genetics of gut vs brain disorders |
+| 14.15-14.40 	| **Professor Michael Simpson** <br> King's College London                                                                                         |         Science talk: Understanding the genetic contribution to inflammatory skin diseases: Susceptibility, severity, and the path to improved disease management |
+| 14.40-15.00 	| **Dr Oliver Pain** <br> King's College London                                                                                                    |         Science talk: GenoPred and GenoDisc: Reproducible workflows leveraging GWAS summary statistics for polygenic prediction and novel functional insights    |
+| 15.00-15.30 	| N/A  |  *COFFEE BREAK*              |
+| 15:30-16:05 	| **Professor Peter Visscher** <br> University of Oxford                                                                                       | Science talk: Reconciling linkage and association studies of complex traits     |
+| 16.05-16.30 	| **Professor Raghib Ali OBE** <br> University of Cambridge <br> Our Future Health | *Science talk: TBC*    |
 | 16.30-17:00   	| <u>Q&A and Panel Discussion</u> <br> **Prof Naomi Wray, Prof Michael Simpson, <br> Dr Oliver Pain, Prof Peter Visscher <br> and Prof Angelica Ronald**                                                          | Topics will include moving between academia and industry, the art of changing institutions, relocating across the world, and more! |
 | 17.00-19.00   	| N/A | *Drinks, nibbles and networking*   |
 

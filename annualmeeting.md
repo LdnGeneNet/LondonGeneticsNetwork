@@ -11,9 +11,7 @@ title: London Genetics Network Meeting - Science and New Beginnings
 
 Dear all,
 
-We are delighted to announce that **registration is now open** for the special themed <a href="https://www.londongeneticsnetwork.com/" rel="noopener noreferrer" target="_blank">London Genetics Network</a> meeting on **Monday, April 29th, from 12 pm.**
-
-<a href="https://www.eventbrite.com/e/827324859927?aff=oddtdtcreator" rel="noopener noreferrer" target="_blank">**Eventbrite link to sign up for the event**</a>
+We are delighted to announce that **registration is now open** for the special themed <a href="https://www.londongeneticsnetwork.com/" rel="noopener noreferrer" target="_blank">London Genetics Network</a> meeting on **Monday, April 29th, from 12 pm!**
 
 ***
 

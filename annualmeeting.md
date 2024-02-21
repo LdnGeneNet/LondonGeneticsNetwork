@@ -27,7 +27,7 @@ There will be networking opportunities during the lunch and coffee break, and th
 
 <br>
 
-# Venue
+# Finding us
 
 The event will be held at the **Lecture theatre, Austin Pearce (AP) Building, University of Surrey, Guildford, Surrey, GU2 7XH**.
 
@@ -35,11 +35,7 @@ The University of Surrey is easily accessible; there are direct trains from Lond
 
 The university is a short walk from Guildford train station. There will be parking spaces near the university.
 
-<br>
-
-# Finding us
-
-The directions to the Austin Pearce Building, University of Surrey can be found as follows:
+The Austin Pearce (AP) Building in University of Surrey is shown on this map as Building 5 in navy, on square D5.
 
 <p align="left">
   <img src="{{ "/" | relative_url }}meeting_info/surrey_map.png" width="1350" />

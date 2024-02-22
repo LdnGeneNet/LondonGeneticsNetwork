@@ -29,7 +29,7 @@ There will be networking opportunities during the lunch and coffee break, and th
 
 # Finding us
 
-The event will be held at the **Lecture theatre, Austin Pearce (AP) Building, University of Surrey, Guildford, Surrey, GU2 7XH**.
+The event will be held at the **Lecture theatre AP1, Austin Pearce (AP) Building, University of Surrey, Guildford, Surrey, GU2 7XH**.
 
 The University of Surrey is easily accessible; there are direct trains from London Waterloo and Clapham Junction. 
 

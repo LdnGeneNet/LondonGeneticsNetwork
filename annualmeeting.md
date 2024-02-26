@@ -63,7 +63,7 @@ There will be a **post-meeting drinks reception** from 5 to 7 pm on the foyer by
 | 14.40-15.00 	| **Dr Oliver Pain** <br> King's College London                                                                                                    |         Science talk: GenoPred and GenoDisc: Reproducible workflows leveraging GWAS summary statistics for polygenic prediction and novel functional insights    |
 | 15.00-15.30 	| N/A  |  *COFFEE BREAK*              |
 | 15:30-16:05 	| **Professor Peter Visscher** <br> University of Oxford                                                                                       | Science talk: Reconciling linkage and association studies of complex traits     |
-| 16.05-16.30 	| **Professor Raghib Ali OBE** <br> University of Cambridge <br> Our Future Health | *Science talk: TBC*    |
+| 16.05-16.30 	| **Professor Raghib Ali OBE** <br> University of Cambridge <br> Our Future Health | Science talk: Our Future Health: building the world's largest genomics and health research study   |
 | 16.30-17:00   	| <u>Q&A and Panel Discussion</u> <br> **Prof Naomi Wray, Prof Michael Simpson, <br> Dr Oliver Pain, Prof Peter Visscher <br> and Prof Angelica Ronald**                                                          | Topics will include moving between academia and industry, the art of changing institutions, relocating across the world, and more! |
 | 17.00-19.00   	| N/A | *Drinks, nibbles and networking*   |
 

@@ -31,15 +31,51 @@ There will be networking opportunities during the lunch and coffee break, and th
 
 The event will be held at the **Lecture theatre AP1, Austin Pearce (AP) Building, University of Surrey, Guildford, Surrey, GU2 7XH**.
 
-The University of Surrey is easily accessible; there are direct trains from London Waterloo and Clapham Junction. 
-
-The university is a short walk from Guildford train station. There will be parking spaces near the university.
-
 The Austin Pearce (AP) Building in University of Surrey is shown on this map as Building 5 in navy, on square D5.
 
 <p align="left">
-  <img src="{{ "/" | relative_url }}meeting_info/surrey_map.png" width="1350" />
+  <img src="{{ "/" | relative_url }}meeting_info/surrey_map.png" width="1200" />
   </p>
+  
+<br>
+
+**Trains**
+
+The University of Surrey is easily accessible; there are direct trains from London Waterloo and Clapham Junction. 
+
+Half-hourly train services run from Guildford to Waterloo, with a journey time of around half-an-hours.
+
+<br>
+
+**Getting to the venue**
+
+After getting off from Guildford station, exit by footbridge and the rear (western) exit. 
+
+Turn right from the station along Guildford Park Road and take the second turning on the right (just past the Evangelical Church). 
+
+Follow the path through the council car park to the campus. 
+
+<br>
+
+**Parking**
+
+There will be parking spaces within approximately 200m from the venue.
+
+The name of the car park is Pay and Display Car Park, located opposite the building.
+
+<br>
+
+**Please refer to the detailed instruction and accessibility routes at https://www.accessable.co.uk/venues/austin-pearce-building-block-ap**
+
+<br>
+
+### what3words
+
+The world is divided into 3 metre squared with a unique combination of three words being assigned to each square.
+
+Find more about <a href=https://what3words.com/about" rel="noopener noreferrer" target="_blank">what3words</a>.
+
+The three words combination for the Lecture theatre AP1, Austin Pearce (AP) Building is available <a href=https://w3w.co/dads.frames.bared" rel="noopener noreferrer" target="_blank">here</a>.
 
 <br>
 
@@ -58,8 +94,8 @@ There will be a **post-meeting drinks reception** from 5 to 7 pm on the foyer by
 |--------------------	| ------------------------------------------------------------------------------------------------------------------------------- |-------------------------------------------------------------------------------	|
 | 12.30-13.30           | N/A | *Lunch (vegan, vegetarian and non-vegetarian options available) & networking* |
 | 13.30-13.40        | **Professor Angelica Ronald** <br> University of Surrey; LGN Co-founder                                                                 | Introduction to LGN and afternoon's events   |
-| 13.40-14.15  	| **Professor Naomi Wray** <br> University of Oxford                                                                                           | Science talk: Genetics of gut vs brain disorders |
-| 14.15-14.40 	| **Professor Michael Simpson** <br> King's College London                                                                                         |         Science talk: Understanding the genetic contribution to inflammatory skin diseases: Susceptibility, severity, and the path to improved disease management |
+| 13.40-14.15  	| **Professor Naomi Wray** <br> University of Oxford                                                                                           | Science talk: Genetic architectures of gut vs brain disorders |
+| 14.15-14.40 	| **Professor Michael Simpson** <br> King's College London                                                                                         |         Science talk: The genetic basis of inflammatory skin disease |
 | 14.40-15.00 	| **Dr Oliver Pain** <br> King's College London                                                                                                    |         Science talk: GenoPred and GenoDisc: Reproducible workflows leveraging GWAS summary statistics for polygenic prediction and novel functional insights    |
 | 15.00-15.30 	| N/A  |  *COFFEE BREAK*              |
 | 15:30-16:05 	| **Professor Peter Visscher** <br> University of Oxford                                                                                       | Science talk: Reconciling linkage and association studies of complex traits     |

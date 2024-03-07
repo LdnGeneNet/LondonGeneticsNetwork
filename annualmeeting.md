@@ -31,7 +31,8 @@ There will be networking opportunities during the lunch and coffee break, and th
 
 The event will be held at the **Lecture theatre AP1, Austin Pearce (AP) Building, University of Surrey, Guildford, Surrey, GU2 7XH**.
 
-The Austin Pearce (AP) Building in University of Surrey is shown on this map as Building 5 in navy, on square D5.
+
+The Austin Pearce (AP) Building in University of Surrey is shown on this map as Building 5 in navy, on square D5. **Please refer to the detailed instruction and accessibility routes at https://www.accessable.co.uk/venues/austin-pearce-building-block-ap**.
 
 <p align="left">
   <img src="{{ "/" | relative_url }}meeting_info/surrey_map.png" width="1200" />
@@ -65,17 +66,13 @@ The name of the car park is Pay and Display Car Park, located opposite the build
 
 <br>
 
-**Please refer to the detailed instruction and accessibility routes at https://www.accessable.co.uk/venues/austin-pearce-building-block-ap**
-
-<br>
-
 ### what3words
 
 The world is divided into 3 metre squared with a unique combination of three words being assigned to each square.
 
-Find more about <a href=https://what3words.com/about" rel="noopener noreferrer" target="_blank">what3words</a>.
+Find more about <a href="https://what3words.com/about" rel="noopener noreferrer" target="_blank">what3words</a>.
 
-The three words combination for the Lecture theatre AP1, Austin Pearce (AP) Building is available <a href=https://w3w.co/dads.frames.bared" rel="noopener noreferrer" target="_blank">here</a>.
+The three words combination for the Lecture theatre AP1, Austin Pearce (AP) Building is available <a href="https://w3w.co/dads.frames.bared" rel="noopener noreferrer" target="_blank">here</a>.
 
 <br>
 

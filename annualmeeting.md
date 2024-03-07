@@ -68,9 +68,12 @@ The name of the car park is Pay and Display Car Park, located opposite the build
 
 ### what3words
 
-The world is divided into 3 metre squared with a unique combination of three words being assigned to each square.
+<p align="left">
+  <img src="{{ "/" | relative_url }}assets/what3word_website.png" width="800" />
+  </p>
+  
 
-Find more about <a href="https://what3words.com/about" rel="noopener noreferrer" target="_blank">what3words</a>.
+The world is divided into 3 metre squares with a unique combination of three words being assigned to each square. Find more about <a href="https://what3words.com/about" rel="noopener noreferrer" target="_blank">what3words</a>.
 
 The three words combination for the Lecture theatre AP1, Austin Pearce (AP) Building is available <a href="https://w3w.co/dads.frames.bared" rel="noopener noreferrer" target="_blank">here</a>.
 
@@ -91,7 +94,7 @@ There will be a **post-meeting drinks reception** from 5 to 7 pm on the foyer by
 |--------------------	| ------------------------------------------------------------------------------------------------------------------------------- |-------------------------------------------------------------------------------	|
 | 12.30-13.30           | N/A | *Lunch (vegan, vegetarian and non-vegetarian options available) & networking* |
 | 13.30-13.40        | **Professor Angelica Ronald** <br> University of Surrey; LGN Co-founder                                                                 | Introduction to LGN and afternoon's events   |
-| 13.40-14.15  	| **Professor Naomi Wray** <br> University of Oxford                                                                                           | Science talk: Genetic architectures of gut vs brain disorders |
+| 13.40-14.15  	| <p align="left">**Professor Naomi Wray**</p> <br> University of Oxford                                                                                           | Science talk: Genetic architectures of gut vs brain disorders |
 | 14.15-14.40 	| **Professor Michael Simpson** <br> King's College London                                                                                         |         Science talk: The genetic basis of inflammatory skin disease |
 | 14.40-15.00 	| **Dr Oliver Pain** <br> King's College London                                                                                                    |         Science talk: GenoPred and GenoDisc: Reproducible workflows leveraging GWAS summary statistics for polygenic prediction and novel functional insights    |
 | 15.00-15.30 	| N/A  |  *COFFEE BREAK*              |

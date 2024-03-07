@@ -91,10 +91,10 @@ There will be a **post-meeting drinks reception** from 5 to 7 pm on the foyer by
 
 
 | Time              	| Speakers                                                                                                              | Agenda                                                                                  	|
-|--------------------	| ------------------------------------------------------------------------------------------------------------------------------- |-------------------------------------------------------------------------------	|
+|--------------------	| :------------------------------------------------------------------------------------------------------------------------------ |-------------------------------------------------------------------------------	|
 | 12.30-13.30           | N/A | *Lunch (vegan, vegetarian and non-vegetarian options available) & networking* |
 | 13.30-13.40        | **Professor Angelica Ronald** <br> University of Surrey; LGN Co-founder                                                                 | Introduction to LGN and afternoon's events   |
-| 13.40-14.15  	| <p align="left">**Professor Naomi Wray**</p> <br> University of Oxford                                                                                           | Science talk: Genetic architectures of gut vs brain disorders |
+| 13.40-14.15  	| **Professor Naomi Wray** <br> University of Oxford                                                                                           | Science talk: Genetic architectures of gut vs brain disorders |
 | 14.15-14.40 	| **Professor Michael Simpson** <br> King's College London                                                                                         |         Science talk: The genetic basis of inflammatory skin disease |
 | 14.40-15.00 	| **Dr Oliver Pain** <br> King's College London                                                                                                    |         Science talk: GenoPred and GenoDisc: Reproducible workflows leveraging GWAS summary statistics for polygenic prediction and novel functional insights    |
 | 15.00-15.30 	| N/A  |  *COFFEE BREAK*              |

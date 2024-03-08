@@ -27,6 +27,36 @@ There will be networking opportunities during the lunch and coffee break, and th
 
 <br>
 
+
+# London Genetics Network Meeting 2024 <br> Theme: Science and New Beginnings
+
+***
+
+
+| Time              	| Speakers                                                                                                              | Agenda                                                                                  	|
+|--------------------	| :------------------------------------------------------------------------------------------------------------------------------ |-------------------------------------------------------------------------------	|
+| 12.30-13.30           | N/A | *Lunch (vegan, vegetarian and non-vegetarian options available) & networking* |
+| 13.30-13.40        | **Professor Angelica Ronald** <br> University of Surrey; LGN Co-founder                                                                 | Introduction to LGN and afternoon's events   |
+| 13.40-14.15  	| **Professor Naomi Wray** <br> University of Oxford                                                                                           | Science talk: Genetic architectures of gut vs brain disorders |
+| 14.15-14.40 	| **Professor Michael Simpson** <br> King's College London                                                                                         |         Science talk: The genetic basis of inflammatory skin disease |
+| 14.40-15.00 	| **Dr Oliver Pain** <br> King's College London                                                                                                    |         Science talk: GenoPred and GenoDisc: Reproducible workflows leveraging GWAS summary statistics for polygenic prediction and novel functional insights    |
+| 15.00-15.30 	| N/A  |  *COFFEE BREAK*              |
+| 15:30-16:05 	| **Professor Peter Visscher** <br> University of Oxford                                                                                       | Science talk: Reconciling linkage and association studies of complex traits     |
+| 16.05-16.30 	| **Professor Raghib Ali OBE** <br> University of Cambridge <br> Our Future Health | Science talk: Our Future Health: building the world's largest genomics and health research study   |
+| 16.30-17:00   	| <u>Q&A and Panel Discussion</u> <br> **Prof Naomi Wray, Prof Michael Simpson, <br> Dr Oliver Pain, Prof Peter Visscher <br> and Prof Angelica Ronald**                                                          | Topics will include moving between academia and industry, the art of changing institutions, relocating across the world, and more! |
+| 17.00-19.00   	| N/A | *Drinks, nibbles and networking*   |
+
+
+**Our events do tend to sell out, so do book soon to avoid disappointment!**
+
+**Please forward this to your groups and colleagues.**
+
+**We hope to see you there!**
+
+<br>
+
+***
+
 # Finding us
 
 The event will be held at the **Lecture theatre AP1, Austin Pearce (AP) Building, University of Surrey, Guildford, Surrey, GU2 7XH**.
@@ -73,9 +103,7 @@ The name of the car park is Pay and Display Car Park, located opposite the build
   </p>
   
 
-The world is divided into 3 metre squares with a unique combination of three words being assigned to each square. Find more about <a href="https://what3words.com/about" rel="noopener noreferrer" target="_blank">what3words</a>.
-
-The three words combination for the Lecture theatre AP1, Austin Pearce (AP) Building is available <a href="https://w3w.co/dads.frames.bared" rel="noopener noreferrer" target="_blank">here</a>.
+Click here for the <a href="https://w3w.co/dads.frames.bared" rel="noopener noreferrer" target="_blank">what3words</a> Location for Lecture theatre AP1, Austin Pearce (AP) Building.
 
 <br>
 
@@ -85,32 +113,7 @@ There will be a **post-meeting drinks reception** from 5 to 7 pm on the foyer by
 
 <br>
 
-# London Genetics Network Meeting 2024 <br> Theme: Science and New Beginnings
 
-***
-
-
-| Time              	| Speakers                                                                                                              | Agenda                                                                                  	|
-|--------------------	| :------------------------------------------------------------------------------------------------------------------------------ |-------------------------------------------------------------------------------	|
-| 12.30-13.30           | N/A | *Lunch (vegan, vegetarian and non-vegetarian options available) & networking* |
-| 13.30-13.40        | **Professor Angelica Ronald** <br> University of Surrey; LGN Co-founder                                                                 | Introduction to LGN and afternoon's events   |
-| 13.40-14.15  	| **Professor Naomi Wray** <br> University of Oxford                                                                                           | Science talk: Genetic architectures of gut vs brain disorders |
-| 14.15-14.40 	| **Professor Michael Simpson** <br> King's College London                                                                                         |         Science talk: The genetic basis of inflammatory skin disease |
-| 14.40-15.00 	| **Dr Oliver Pain** <br> King's College London                                                                                                    |         Science talk: GenoPred and GenoDisc: Reproducible workflows leveraging GWAS summary statistics for polygenic prediction and novel functional insights    |
-| 15.00-15.30 	| N/A  |  *COFFEE BREAK*              |
-| 15:30-16:05 	| **Professor Peter Visscher** <br> University of Oxford                                                                                       | Science talk: Reconciling linkage and association studies of complex traits     |
-| 16.05-16.30 	| **Professor Raghib Ali OBE** <br> University of Cambridge <br> Our Future Health | Science talk: Our Future Health: building the world's largest genomics and health research study   |
-| 16.30-17:00   	| <u>Q&A and Panel Discussion</u> <br> **Prof Naomi Wray, Prof Michael Simpson, <br> Dr Oliver Pain, Prof Peter Visscher <br> and Prof Angelica Ronald**                                                          | Topics will include moving between academia and industry, the art of changing institutions, relocating across the world, and more! |
-| 17.00-19.00   	| N/A | *Drinks, nibbles and networking*   |
-
-
-**Our events do tend to sell out, so do book soon to avoid disappointment!**
-
-**Please forward this to your groups and colleagues.**
-
-**We hope to see you there!**
-
-<br>
 
 ***
 

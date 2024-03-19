@@ -96,12 +96,7 @@ The name of the car park is Pay and Display Car Park, located opposite the build
 
 <br>
 
-### what3words
-
-<p align="left">
-  <img src="{{ "/" | relative_url }}assets/what3word_website.png" width="800" />
-  </p>
-  
+**what3words**
 
 Click here for the <a href="https://w3w.co/dads.frames.bared" rel="noopener noreferrer" target="_blank">what3words</a> Location for Lecture theatre AP1, Austin Pearce (AP) Building.
 

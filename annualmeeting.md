@@ -62,9 +62,7 @@ There will be networking opportunities during the lunch and coffee break, and th
 The event will be held at the **Lecture theatre AP1, Austin Pearce (AP) Building, University of Surrey, Guildford, Surrey, GU2 7XH**.
 
 
-The Austin Pearce (AP) Building in University of Surrey is shown on this map as Building 5 in navy, on square D5. 
-
-**Please refer to the detailed instruction and accessibility routes at https://www.accessable.co.uk/venues/austin-pearce-building-block-ap**. 
+The Austin Pearce (AP) Building in University of Surrey is shown on this map as Building 5 in navy, on square D5. **Please refer to the detailed instruction and accessibility routes at https://www.accessable.co.uk/venues/austin-pearce-building-block-ap**. 
 
 The location of the building should be shown upon searching for 'Austin Pearce Building' on Google Maps, or <a href="https://maps.app.goo.gl/mKdQfSTNx1jn3BLu7
 " rel="noopener noreferrer" target="_blank">using the link provided here</a>.

@@ -62,7 +62,27 @@ There will be networking opportunities during the lunch and coffee break, and th
 The event will be held at the **Lecture theatre AP1, Austin Pearce (AP) Building, University of Surrey, Guildford, Surrey, GU2 7XH**.
 
 
-The Austin Pearce (AP) Building in University of Surrey is shown on this map as Building 5 in navy, on square D5. **Please refer to the detailed instruction and accessibility routes at https://www.accessable.co.uk/venues/austin-pearce-building-block-ap**.
+The Austin Pearce (AP) Building in University of Surrey is shown on this map as Building 5 in navy, on square D5. 
+
+**Please refer to the detailed instruction and accessibility routes at https://www.accessable.co.uk/venues/austin-pearce-building-block-ap**. 
+
+The location of the building should be shown upon searching for 'Austin Pearce Building' on Google Maps, or <a href="https://maps.app.goo.gl/mKdQfSTNx1jn3BLu7
+" rel="noopener noreferrer" target="_blank">using the link provided here</a>.
+
+<br>
+
+**Getting to the venue**
+
+After getting off from Guildford station, exit by footbridge and the rear (western) exit. 
+
+Turn right from the station along Guildford Park Road and take the second turning on the right (just past the Evangelical Church). 
+
+Follow the path through the council car park to the campus. 
+
+The lecture theatre is about a 12-15 minute walk away from Guildford train station. 
+
+<br>
+
 
 <p align="left">
   <img src="{{ "/" | relative_url }}meeting_info/surrey_map.png" width="1200" />
@@ -75,16 +95,6 @@ The Austin Pearce (AP) Building in University of Surrey is shown on this map as 
 The University of Surrey is easily accessible; there are direct trains from London Waterloo and Clapham Junction. 
 
 Half-hourly train services run from Guildford to Waterloo, with a journey time of around half-an-hours.
-
-<br>
-
-**Getting to the venue**
-
-After getting off from Guildford station, exit by footbridge and the rear (western) exit. 
-
-Turn right from the station along Guildford Park Road and take the second turning on the right (just past the Evangelical Church). 
-
-Follow the path through the council car park to the campus. 
 
 <br>
 

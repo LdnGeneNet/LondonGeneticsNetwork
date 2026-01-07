@@ -138,7 +138,7 @@ Both venues are located on the **ground floor of the UCL Anatomy Building**.
 
 **Professor Angelica Ronald** – University of Surrey  
 **Professor Karoline Kuchenbaecker** – University College London  
-**Dr Kaito Kawakami** – King’s College London  
+**Kaito Kawakami** – King’s College London  
 **Dr Eyad Elbahtety** – London School of Hygiene & Tropical Medicine  
 **Dr Georgina Navoly** – University College London  
 

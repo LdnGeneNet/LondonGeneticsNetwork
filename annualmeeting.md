@@ -39,7 +39,7 @@ The meeting will conclude with a **drinks reception**, with plenty of soft drink
 | Time | Speakers | Agenda |
 |------|---------|--------|
 | 12:40 – 13:00 | N/A | *Arrival & Registration* |
-| **Session 1** |  |  |
+| **Session 1 – Common Variant Talks** |  |  |
 | 13:00 – 13:30 | **Professor Sanjay Sisodiya** <br> University College London | Keynote: *Genomic complexity in a monogenic epilepsy* |
 | 13:30 – 13:50 | **Dr Vangelis Vassos** <br> King’s College London | *The path to clinical implementation of polygenic scores in psychiatry is very slow. But are we asking the right questions?* |
 | 13:50 – 14:10 | **Professor Angelica Ronald** <br> University of Surrey | *Latest developments in infant genetics: A genome-wide association study of age at onset of walking* |
@@ -47,15 +47,18 @@ The meeting will conclude with a **drinks reception**, with plenty of soft drink
 | **ECR Talks – Rising Stars** |  |  |
 | 14:50 – 15:10 | **Dr Eyad Elbahtety** <br> London School of Hygiene & Tropical Medicine | *Rare variants methods in GWAS: The how and why?* |
 | 15:10 – 15:30 | **Oyesola Ojewunmi** <br> Queen Mary University of London | *Genetic drivers of foetal haemoglobin persistence in sickle cell disease* |
-| 15:30 – 15:50 | **Georgios Kalantzis** (Wellcome Sanger Institute) <br> **Hannah Chaudhry-Phipps** (University College London) <br> **Hannah Li** (University of Cambridge) <br> **Miriam Samuel** (Queen Mary University of London) <br> **Nisa Rizki Rainy** (Birkbeck, University of London) | *ECR Flash Talks* |
+| **ECR Flash Talks** |  |  |
+| 15:30 – 15:34 | **Hannah Li** <br> University of Cambridge | *An exome-wide association study identifies protein-coding variants associated with carotid intima-media thickness in the UK Biobank* |
+| 15:34 – 15:38 | **Hannah Chaudhry-Phipps** <br> University College London | *Using Mendelian randomisation to explore rapamycin, mTOR expression and ageing* |
+| 15:38 – 15:42 | **Nisa Rizki Rainy** <br> Birkbeck, University of London | *In the genetics of the beholder: gene–environment interplay for internalising and externalising behaviours using polygenic scores and adolescent perceptions of parenting* |
+| 15:42 – 15:46 | **Miriam Samuel** <br> Queen Mary University of London | *Clinical implications of a South Asian-specific genetic variant in the PIEZO1 gene that causes a non-glycaemic reduction in HbA1c* |
+| 15:46 – 15:50 | **Georgios Kalantzis** <br> Wellcome Sanger Institute | *Recessive meta-analysis across six biobanks and one million samples identifies well-established genes and novel recessive associations* |
 | 15:50 – 16:00 | N/A | *Comfort break* |
-| **Session 2s** |  |  |
+| **Session 2 – Rare Variant Talks** |  |  |
 | 16:00 – 16:25 | **Dr Gareth Hawkes** <br> University of Exeter | *Discovery and architecture of rare non-coding regulatory effects using population-scale whole-genome sequencing* |
 | 16:25 – 16:50 | **Dr Jennifer Asimit** <br> University of Cambridge | *Leveraging phenotypic similarity and ancestry diversity in cardiometabolic genetics* |
 | 16:50 – 17:00 | **Professor Angelica Ronald** <br> University of Surrey | *Wrap-up and background to the London Genetics Network* |
 | 17:00 – 19:00 | N/A | *Drinks, nibbles and networking* |
-
-<br>
 
 
 ***

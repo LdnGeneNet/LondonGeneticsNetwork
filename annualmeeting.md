@@ -39,25 +39,24 @@ The meeting will conclude with a **drinks reception**, with plenty of soft drink
 | Time | Speakers | Agenda |
 |------|---------|--------|
 | 12:40 – 13:00 | N/A | *Arrival & Registration* |
-| **Session 1** |  |  |
-| 13:00 – 14:10 | **Professor Sanjay Sisodiya** <br> University College London | Keynote: *Genomic complexity in a monogenic epilepsy* |
-|  | **Dr Vangelis Vassos** <br> King’s College London | *The path to clinical implementation of polygenic scores in psychiatry is very slow. But are we asking the right questions?* |
-|  | **Professor Angelica Ronald** <br> University of Surrey | *Latest developments in infant genetics: A genome-wide association study of age at onset of walking* |
+| **Session 1 – Common Variant Talks** |  |  |
+| 13:00 – 13:30 | **Professor Sanjay Sisodiya** <br> University College London | Keynote: *Genomic complexity in a monogenic epilepsy* |
+| 13:30 – 13:50 | **Dr Vangelis Vassos** <br> King’s College London | *The path to clinical implementation of polygenic scores in psychiatry is very slow. But are we asking the right questions?* |
+| 13:50 – 14:10 | **Professor Angelica Ronald** <br> University of Surrey | *Latest developments in infant genetics: A genome-wide association study of age at onset of walking* |
 | 14:10 – 14:50 | N/A | *Coffee break* |
 | **ECR Talks – Rising Stars** |  |  |
-| 14:50 – 15:50 | **Dr Eyad Elbahtety** <br> London School of Hygiene & Tropical Medicine | *Rare variants methods in GWAS: The how and why?* |
-|  | **Oyesola Ojewunmi** <br> Queen Mary University of London | *Genetic drivers of foetal haemoglobin persistence in sickle cell disease* |
-|  | **ECR Flash Talks** <br> **Georgios Kalantzis** (Wellcome Sanger Institute) <br> **Hannah Chaudhry-Phipps** (University College London) <br> **Hannah Li** (University of Cambridge) <br> **Miriam Samuel** (Queen Mary University of London) <br> **Nisa Rizki Rainy** (Birkbeck, University of London) | *ECR Flash Talks* |
+| 14:50 – 15:10 | **Dr Eyad Elbahtety** <br> London School of Hygiene & Tropical Medicine | *Rare variants methods in GWAS: The how and why?* |
+| 15:10 – 15:30 | **Oyesola Ojewunmi** <br> Queen Mary University of London | *Genetic drivers of foetal haemoglobin persistence in sickle cell disease* |
+| 15:30 – 15:50 | **Georgios Kalantzis** (Wellcome Sanger Institute) <br> **Hannah Chaudhry-Phipps** (University College London) <br> **Hannah Li** (University of Cambridge) <br> **Miriam Samuel** (Queen Mary University of London) <br> **Nisa Rizki Rainy** (Birkbeck, University of London) | *ECR Flash Talks* |
 | 15:50 – 16:00 | N/A | *Comfort break* |
-| **Session 2** |  |  |
-| 16:00 – 17:00 | **Dr Gareth Hawkes** <br> University of Exeter | *Discovery and architecture of rare non-coding regulatory effects using population-scale whole-genome sequencing* |
-|  | **Dr Jennifer Asimit** <br> University of Cambridge | *Leveraging phenotypic similarity and ancestry diversity in cardiometabolic genetics* |
-|  | TBC | TBC |
+| **Session 2 – Rare Variant Talks** |  |  |
+| 16:00 – 16:25 | **Dr Gareth Hawkes** <br> University of Exeter | *Discovery and architecture of rare non-coding regulatory effects using population-scale whole-genome sequencing* |
+| 16:25 – 16:50 | **Dr Jennifer Asimit** <br> University of Cambridge | *Leveraging phenotypic similarity and ancestry diversity in cardiometabolic genetics* |
+| 16:50 – 17:00 | **Professor Angelica Ronald** <br> University of Surrey | *Wrap-up and background to the London Genetics Network* |
 | 17:00 – 19:00 | N/A | *Drinks, nibbles and networking* |
 
 <br>
 
-***
 
 ***
 

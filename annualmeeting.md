@@ -1,6 +1,6 @@
 ---
 layout: page
-title: London Genetics Network Annual Meeting 2026 – Vanishing Boundaries
+title: London Genetics Network Annual Meeting 2026 – Vanishing boundaries between rare and common genetic variation.
 ---
 
 <p align="center">
@@ -118,6 +118,7 @@ Jennifer Asimit has over 15 years of experience in statistical genetics, develop
 **Talks**  
 JZ Young Lecture Theatre (G29)  
 UCL Anatomy Building  
+Google pin: https://maps.app.goo.gl/cPRZ2b7SpLia4WKQ8
 
 **Drinks reception**  
 JBS Haldane Student Hub  

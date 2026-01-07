@@ -112,24 +112,6 @@ Gareth Hawkes is an MRC Career Development Fellow and Lecturer in Health Data Sc
 
 Jennifer Asimit has over 15 years of experience in statistical genetics, developing methods to advance understanding of cardiometabolic diseases and their co-morbidities. At the MRC Biostatistics Unit, University of Cambridge, she leads a research group focused on joint analysis of multiple outcomes across diverse ancestries, collaborating internationally across cardiometabolic, psychiatric, and other complex diseases. Her work promotes open science through user-friendly software and interactive visualisation tools, maximising accessibility and impact.
 
-
-# Finding us
-
-📍 **Location**
-
-**Talks**  
-JZ Young Lecture Theatre (G29)  
-UCL Anatomy Building  
-Google pin: https://maps.app.goo.gl/cPRZ2b7SpLia4WKQ8
-
-**Drinks reception**  
-JBS Haldane Student Hub  
-UCL Anatomy Building (adjacent to the lecture theatre)
-
-Both venues are located on the **ground floor of the UCL Anatomy Building**.
-
-**Access:** Please enter via **Gower Street**.
-
 <br>
 
 ***

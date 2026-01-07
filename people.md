@@ -22,7 +22,7 @@ Karoline Kuchenbaecker is <a href="https://www.uclhumgen.com/people/karoline/" r
 
 ### Kaito Kawakami
 <p align="left">
-  <img src="{{ "/" | relative_url }}assets/Kaito_Kawakami.jpeg" width="180" />
+  <img src="{{ "/" | relative_url }}assets/Kaito_Kawakami.JPG" width="180" />
   </p>
 Kaito is a PhD student in behavioral genetics at King’s College London’s Social, Genetic, and Developmental Psychiatry (SGDP) Centre, working under the supervision of Prof. Robert Plomin. His research focuses on understanding how genetics contributes to individual differences in cognitive ability. 
 

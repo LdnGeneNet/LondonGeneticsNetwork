@@ -1,158 +1,153 @@
 ---
 layout: page
-title: London Genetics Network Meeting - Science and New Beginnings
+title: London Genetics Network Annual Meeting 2026 – Vanishing Boundaries
 ---
 
 <p align="center">
   <img src="{{ "/" | relative_url }}assets/annualmeeting.jpg" width="100%" style="margin: 0px 0px"/>
-  </p>
+</p>
 
 <br>
 
 Dear all,
 
-We are delighted to announce that **registration is now open** for the special themed <a href="https://www.londongeneticsnetwork.com/" rel="noopener noreferrer" target="_blank">London Genetics Network</a> meeting on **Monday, April 29th, from 12.30 pm!**
+We are delighted to welcome you to the **London Genetics Network Annual Meeting 2026**, taking place on **Thursday, 8 January 2026**.
+
+Start the new year as you mean to go on – with excellent research in human genetics and an afternoon of scientific exchange, discussion, and networking.
 
 ***
 
 # About this event
 
-For 2024 we are celebrating **new beginnings** – all our speakers have recently moved institution or moved between academia and industry.
+This year’s theme is **“Vanishing boundaries between rare and common genetic variation.”**
 
-We are thrilled to announce a fantastic schedule of outstanding speakers from institutions in London and the surrounding areas (see below).
+As sequencing costs have fallen, investigation of the rare-variant genetic architecture (MAF < 0.01) of complex traits has become increasingly feasible. Strikingly, many recent studies demonstrate convergence between rare- and common-variant signals, highlighting the diminishing boundaries between these approaches.
 
-Following the science talks, there will be an opportunity to ask questions about careers at a Q&A panel discussion with a panel of researchers working in human genetics who have recently made a career change (institution, country, industry, etc).
+We are excited to host speakers whose work spans **both rare and common variant genetics**, from methodological development through to clinical and population-scale applications.
 
-There will be networking opportunities during the lunch and coffee break, and the event will be followed by a drinks reception!
-
-<br>
-
-
-# London Genetics Network Meeting 2024 <br> Theme: Science and New Beginnings
-
-***
-
-
-| Time              	| Speakers                                                                                                              | Agenda                                                                                  	|
-|--------------------	| :------------------------------------------------------------------------------------------------------------------------------ |-------------------------------------------------------------------------------	|
-| 12.30-13.30           | N/A | *Lunch (vegan, vegetarian and non-vegetarian options available) & networking* |
-| 13.30-13.40        | **Professor Angelica Ronald** <br> University of Surrey; LGN Co-founder                                                                 | Introduction to LGN and afternoon's events   |
-| 13.40-14.15  	| **Professor Naomi Wray** <br> University of Oxford                                                                                           | Science talk: Genetic architectures of gut vs brain disorders |
-| 14.15-14.40 	| **Professor Michael Simpson** <br> King's College London                                                                                         |         Science talk: The genetic basis of inflammatory skin disease |
-| 14.40-15.00 	| **Dr Oliver Pain** <br> King's College London                                                                                                    |         Science talk: GenoPred and GenoDisc: Reproducible workflows leveraging GWAS summary statistics for polygenic prediction and novel functional insights    |
-| 15.00-15.30 	| N/A  |  *COFFEE BREAK*              |
-| 15:30-16:05 	| **Professor Peter Visscher** <br> University of Oxford                                                                                       | Science talk: Reconciling linkage and association studies of complex traits     |
-| 16.05-16.30 	| **Professor Raghib Ali OBE** <br> University of Cambridge <br> Our Future Health | Science talk: Our Future Health: building the world's largest genomics and health research study   |
-| 16.30-17:00   	| <u>Q&A and Panel Discussion</u> <br> **Prof Naomi Wray, Prof Michael Simpson, <br> Dr Oliver Pain, Prof Peter Visscher <br> and Prof Angelica Ronald**                                                          | Topics will include moving between academia and industry, the art of changing institutions, relocating across the world, and more! |
-| 17.00-19.00   	| N/A | *Drinks, nibbles and networking*   |
-
-
-**Our events do tend to sell out, so do book soon to avoid disappointment!**
-
-**Please forward this to your groups and colleagues.**
-
-**We hope to see you there!**
+The meeting will conclude with a **drinks reception**, with plenty of soft drink options available for those taking part in Dry January.
 
 <br>
 
+# London Genetics Network Annual Meeting 2026  
+### Theme: Vanishing Boundaries between Rare and Common Genetic Variation
+
 ***
+
+## Programme Schedule
+
+| Time | Speakers | Agenda |
+|------|---------|--------|
+| 12:40 – 13:00 | N/A | *Arrival & Registration* |
+| **Session 1** |  |  |
+| 13:00 – 14:10 | **Professor Sanjay Sisodiya** <br> University College London | Keynote: *Genomic complexity in a monogenic epilepsy* |
+|  | **Dr Vangelis Vassos** <br> King’s College London | *The path to clinical implementation of polygenic scores in psychiatry is very slow. But are we asking the right questions?* |
+|  | **Professor Angelica Ronald** <br> University of Surrey | *Latest developments in infant genetics: A genome-wide association study of age at onset of walking* |
+| 14:10 – 14:50 | N/A | *Coffee break* |
+| **ECR Talks – Rising Stars** |  |  |
+| 14:50 – 15:50 | **Dr Eyad Elbahtety** <br> London School of Hygiene & Tropical Medicine | *Rare variants methods in GWAS: The how and why?* |
+|  | **Oyesola Ojewunmi** <br> Queen Mary University of London | *Genetic drivers of foetal haemoglobin persistence in sickle cell disease* |
+|  | N/A | *ECR Flash Talks* |
+| 15:50 – 16:00 | N/A | *Comfort break* |
+| **Session 2** |  |  |
+| 16:00 – 17:00 | **Dr Gareth Hawkes** <br> University of Exeter | *Discovery and architecture of rare non-coding regulatory effects using population-scale whole-genome sequencing* |
+|  | **Dr Jennifer Asimit** <br> University of Cambridge | *Leveraging phenotypic similarity and ancestry diversity in cardiometabolic genetics* |
+|  | TBC | TBC |
+| 17:00 – 19:00 | N/A | *Drinks, nibbles and networking* |
+
+<br>
+
+***
+
+***
+
+# Speaker bios
+
+### Professor Sanjay Sisodiya  
+**University College London**
+
+Sanjay Sisodiya is Professor of Neurology at the UCL Queen Square Institute of Neurology and Transformation Director at the Epilepsy Society. His main research interests are complex epilepsies and the impacts of climate change on neurological disorders. Genomic science has proven highly informative for the former and provides a bridge to understanding the latter.
+
+---
+
+### Dr Evangelos (Vangelis) Vassos  
+**King’s College London**
+
+Evangelos Vassos is a Consultant Psychiatrist and Senior Clinical Research Fellow. He holds medical and doctoral degrees from the University of Athens and completed his psychiatry training in Oxford. His research investigates the genetic and environmental underpinnings of psychosis and mood disorders, with a current focus on developing and validating risk-estimation models for psychosis. His expertise spans genome-wide association studies, polygenic score analysis, genetic epidemiology, and novel meta-analysis methodologies.
+
+---
+
+### Professor Angelica Ronald  
+**University of Surrey**
+
+Angelica Ronald is Professor of Psychology and Genetics in the Faculty of Health and Medical Sciences at the University of Surrey. She established the *Genetics of Early Milestones and Skills (GEMS)* project, a multidisciplinary collaboration investigating the shared genetic architecture of infant and toddler behaviour. Her current roles include serving on the Behaviour Genetics Association Executive Board, acting as Joint Editor of the *Journal of Child Psychology and Psychiatry*, and co-leading the London Genetics Network.
+
+---
+
+### Dr Eyad Elbahtety  
+**London School of Hygiene & Tropical Medicine / University College London**
+
+Eyad Elbahtety is a clinical dentist and PhD candidate at LSHTM and UCL, supported by a UCL LIDo BBSRC scholarship. He completed his MSc in Regenerative Dentistry at King’s College London and his BDS at the British University in Egypt. His research focuses on population genetics of complex diseases and tissue regeneration, with current work investigating the genetic architecture of blood cell traits in African populations and their links to sickle cell disease using both common and rare variants from short- and long-read whole-genome sequencing.
+
+---
+
+### Dr Oyesola Ojewunmi  
+**Queen Mary University of London**
+
+Oyesola Ojewunmi is a Senior Research Fellow in Genomics at the Precision Healthcare University Research Institute (PHURI), Queen Mary University of London. His research applies advanced statistical methods to address genetic heterogeneity in genome-wide association meta-analyses across diverse populations, with a particular focus on African ancestry. His work on sickle cell disease examines genotype–phenotype relationships to identify clinically relevant biomarkers and biological pathways. He is a recipient of the Human Genomics Scholar Award from the American Society of Human Genetics.
+
+---
+
+### Dr Gareth Hawkes  
+**University of Exeter**
+
+Gareth Hawkes is an MRC Career Development Fellow and Lecturer in Health Data Science at the University of Exeter. His research develops and applies methods to understand the interplay between rare coding and regulatory variants and their population-level effects on complex traits, particularly metabolic, obesity-related, and anthropometric traits. He trained originally in theoretical physics and solar physics before transitioning into complex trait genetics.
+
+---
+
+### Dr Jennifer Asimit  
+**University of Cambridge**
+
+Jennifer Asimit has over 15 years of experience in statistical genetics, developing methods to advance understanding of cardiometabolic diseases and their co-morbidities. At the MRC Biostatistics Unit, University of Cambridge, she leads a research group focused on joint analysis of multiple outcomes across diverse ancestries, collaborating internationally across cardiometabolic, psychiatric, and other complex diseases. Her work promotes open science through user-friendly software and interactive visualisation tools, maximising accessibility and impact.
+
 
 # Finding us
 
-The event will be held at the **Lecture theatre AP1, Austin Pearce (AP) Building, University of Surrey, Guildford, Surrey, GU2 7XH**.
+📍 **Location**
 
+**Talks**  
+JZ Young Lecture Theatre (G29)  
+UCL Anatomy Building  
 
-The Austin Pearce (AP) Building in University of Surrey is shown on this map as Building 5 in navy, on square D5. **Please refer to the detailed instruction and accessibility routes at https://www.accessable.co.uk/venues/austin-pearce-building-block-ap**. 
+**Drinks reception**  
+JBS Haldane Student Hub  
+UCL Anatomy Building (adjacent to the lecture theatre)
 
-The location of the building should be shown upon searching for 'Austin Pearce Building' on Google Maps, or <a href="https://maps.app.goo.gl/mKdQfSTNx1jn3BLu7
-" rel="noopener noreferrer" target="_blank">using the link provided here</a>.
+Both venues are located on the **ground floor of the UCL Anatomy Building**.
 
-<br>
-
-**Getting to the venue**
-
-After getting off from Guildford station, exit by footbridge and the rear (western) exit. 
-
-Turn right from the station along Guildford Park Road and take the second turning on the right (just past the Evangelical Church). 
-
-Follow the path through the council car park to the campus. 
-
-The lecture theatre is about a 12-15 minute walk away from Guildford train station. 
+**Access:** Please enter via **Gower Street**.
 
 <br>
-
-
-<p align="left">
-  <img src="{{ "/" | relative_url }}meeting_info/surrey_map.png" width="1200" />
-  </p>
-  
-<br>
-
-**Trains**
-
-The University of Surrey is easily accessible; there are direct trains from London Waterloo and Clapham Junction. 
-
-Half-hourly train services run from Guildford to Waterloo, with a journey time of around half-an-hours.
-
-<br>
-
-**Parking**
-
-There will be parking spaces within approximately 200m from the venue.
-
-The name of the car park is Pay and Display Car Park, located opposite the building.
-
-<br>
-
-**what3words**
-
-Click here for the <a href="https://w3w.co/dads.frames.bared" rel="noopener noreferrer" target="_blank">what3words</a> Location for Lecture theatre AP1, Austin Pearce (AP) Building.
-
-<br>
-
-# Post-meeting social
-
-There will be a **post-meeting drinks reception** from 5 to 7 pm on the foyer by the venue.
-
-<br>
-
-
 
 ***
 
-
 # Organising committee
 
-### Professor Angelica Ronald - Founder of London Genetics Network
-<p align="left">
-  <img src="{{ "/" | relative_url }}assets/Angelica_Ronald2.jpg" width="180" />
-  </p>
-Angelica Ronald is <a href="https://www.surrey.ac.uk/people/angelica-ronald" rel="noopener noreferrer" target="_blank">Professor of Psychology and Genetics at University of Surrey</a>, and director of the <a href="https://www.gel.bbk.ac.uk/" rel="noopener noreferrer" target="_blank">Genes Environment Lifespan laboratory</a>. She co-founded the London Genetics Network in 2020 with Professor Karoline Kuchenbaecker.
+**Professor Angelica Ronald** – University of Surrey  
+**Professor Karoline Kuchenbaecker** – University College London  
+**Dr Kaito Kawakami** – King’s College London  
+**Dr Eyad Elbahtety** – London School of Hygiene & Tropical Medicine  
+**Dr Georgina Navoly** – University College London  
 
-### Professor Karoline Kuchenbaecker - Founder of London Genetics Network
-<p align="left">
-  <img src="{{ "/" | relative_url }}assets/Karoline2.jpg" width="180" />
-  </p>
-Karoline Kuchenbaecker is <a href="https://www.uclhumgen.com/people/karoline/" rel="noopener noreferrer" target="_blank">Professor of Genetic Epidemiology at University College London</a>. Her group studies the genetics of complex traits in ancestrally diverse populations.
+<br>
 
-### Chris Lo - Communications Manager
-<p align="left">
-  <img src="{{ "/" | relative_url }}assets/Chris_Lo.jpeg" width="180" />
-  </p>
-Chris is a PhD student and a research assistant in the <a href="https://www.kcl.ac.uk/mental-health-and-psychological-sciences/about/departments/social-genetic-and-developmental-psychiatry" rel="noopener noreferrer" target="_blank">Social, Genetic and Developmental Psychiatry Centre</a> at King's College London, supervised by Professor Cathryn Lewis. He is currently looking into the genetics of antidepressant response using clinical studies and electronic health records.
-
-### Dr Aislinn Bowler - Organising Committee Member
-<p align="left">
-  <img src="{{ "/" | relative_url }}assets/ABowler.jpeg" width="180" />
-  </p>
-Aislinn has recently finished her PhD at Birkbeck and is now working as a postdoctoral research assistant at the University of Surrey. Her research interests include infant traits, neurodevelopmental conditions, motor skills, and polygenic risk scores.
-  
+***
 
 # Sponsor
 
-London Genetics Network is a Special Interest group funded by [The Genetics Society](https://genetics.org.uk) and also received support from the Genomics England Diverse Data Initiative.
+London Genetics Network is a Special Interest Group funded by [The Genetics Society](https://genetics.org.uk).
 
 <p align="center">
-  <img src="{{ "/" | relative_url }}assets/GS LogoFCOL-01.png" width="380" /> <br><br><br>
+  <img src="{{ "/" | relative_url }}assets/GS LogoFCOL-01.png" width="380" /><br><br>
   <img src="{{ "/" | relative_url }}assets/LGNLogo_new.jpg" width="380" />
 </p>

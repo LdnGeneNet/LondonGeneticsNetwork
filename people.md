@@ -20,11 +20,11 @@ Karoline Kuchenbaecker is <a href="https://www.uclhumgen.com/people/karoline/" r
 
 # Communications Manager
 
-### Chris Lo
+### Kaito Kawakami
 <p align="left">
-  <img src="{{ "/" | relative_url }}assets/Chris_Lo.jpeg" width="180" />
+  <img src="{{ "/" | relative_url }}assets/Kaito_Kawakami.jpeg" width="180" />
   </p>
-Chris is a PhD student and a research assistant in the <a href="https://www.kcl.ac.uk/mental-health-and-psychological-sciences/about/departments/social-genetic-and-developmental-psychiatry" rel="noopener noreferrer" target="_blank">Social, Genetic and Developmental Psychiatry Centre</a> at King's College London, supervised by Professor Cathryn Lewis. He is currently looking into the genetics of antidepressant response using clinical studies and electronic health records.
+Kaito is a PhD student in behavioral genetics at King’s College London’s Social, Genetic, and Developmental Psychiatry (SGDP) Centre, working under the supervision of Prof. Robert Plomin. His research focuses on understanding how genetics contributes to individual differences in cognitive ability. 
 
 
 # 2024 Annual Meeting Organising Committee Member
@@ -53,6 +53,8 @@ Chris Rayner is a postdoctoral research associate at the <a href="https://www.kc
 <br>
 
 ## Previous contributors
+
+Chris Lo, King's College London - Communications Manager 2022-2023
 
 Leonard Frach, University College London - Communications Manager 2022-2023
 

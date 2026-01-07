@@ -47,7 +47,7 @@ The meeting will conclude with a **drinks reception**, with plenty of soft drink
 | **ECR Talks – Rising Stars** |  |  |
 | 14:50 – 15:50 | **Dr Eyad Elbahtety** <br> London School of Hygiene & Tropical Medicine | *Rare variants methods in GWAS: The how and why?* |
 |  | **Oyesola Ojewunmi** <br> Queen Mary University of London | *Genetic drivers of foetal haemoglobin persistence in sickle cell disease* |
-|  | **ECR Flash Talks** <br> Georgios Kalantzis (Wellcome Sanger Institute) <br> Hannah Chaudhry-Phipps (UCL) <br> Hannah Li (University of Cambridge) <br> Miriam Samuel (Queen Mary University of London) <br> Nisa Rizki Rainy (Birkbeck, University of London) | Short talks from early-career researchers |
+|  | **ECR Flash Talks** <br> **Georgios Kalantzis** (Wellcome Sanger Institute) <br> **Hannah Chaudhry-Phipps** (University College London) <br> **Hannah Li** (University of Cambridge) <br> **Miriam Samuel** (Queen Mary University of London) <br> **Nisa Rizki Rainy** (Birkbeck, University of London) | *ECR Flash Talks* |
 | 15:50 – 16:00 | N/A | *Comfort break* |
 | **Session 2** |  |  |
 | 16:00 – 17:00 | **Dr Gareth Hawkes** <br> University of Exeter | *Discovery and architecture of rare non-coding regulatory effects using population-scale whole-genome sequencing* |

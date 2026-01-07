@@ -39,7 +39,7 @@ The meeting will conclude with a **drinks reception**, with plenty of soft drink
 | Time | Speakers | Agenda |
 |------|---------|--------|
 | 12:40 – 13:00 | N/A | *Arrival & Registration* |
-| **Session 1 – Common Variant Talks** |  |  |
+| **Session 1** |  |  |
 | 13:00 – 13:30 | **Professor Sanjay Sisodiya** <br> University College London | Keynote: *Genomic complexity in a monogenic epilepsy* |
 | 13:30 – 13:50 | **Dr Vangelis Vassos** <br> King’s College London | *The path to clinical implementation of polygenic scores in psychiatry is very slow. But are we asking the right questions?* |
 | 13:50 – 14:10 | **Professor Angelica Ronald** <br> University of Surrey | *Latest developments in infant genetics: A genome-wide association study of age at onset of walking* |
@@ -49,7 +49,7 @@ The meeting will conclude with a **drinks reception**, with plenty of soft drink
 | 15:10 – 15:30 | **Oyesola Ojewunmi** <br> Queen Mary University of London | *Genetic drivers of foetal haemoglobin persistence in sickle cell disease* |
 | 15:30 – 15:50 | **Georgios Kalantzis** (Wellcome Sanger Institute) <br> **Hannah Chaudhry-Phipps** (University College London) <br> **Hannah Li** (University of Cambridge) <br> **Miriam Samuel** (Queen Mary University of London) <br> **Nisa Rizki Rainy** (Birkbeck, University of London) | *ECR Flash Talks* |
 | 15:50 – 16:00 | N/A | *Comfort break* |
-| **Session 2 – Rare Variant Talks** |  |  |
+| **Session 2s** |  |  |
 | 16:00 – 16:25 | **Dr Gareth Hawkes** <br> University of Exeter | *Discovery and architecture of rare non-coding regulatory effects using population-scale whole-genome sequencing* |
 | 16:25 – 16:50 | **Dr Jennifer Asimit** <br> University of Cambridge | *Leveraging phenotypic similarity and ancestry diversity in cardiometabolic genetics* |
 | 16:50 – 17:00 | **Professor Angelica Ronald** <br> University of Surrey | *Wrap-up and background to the London Genetics Network* |

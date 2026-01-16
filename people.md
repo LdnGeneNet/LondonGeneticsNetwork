@@ -20,11 +20,11 @@ Karoline Kuchenbaecker is <a href="https://www.uclhumgen.com/people/karoline/" r
 
 # Communications Manager
 
-### Kaito Kawakami
+### Maria Viejo Romero
 <p align="left">
-  <img src="{{ "/" | relative_url }}assets/Kaito_Kawakami.JPG" width="180" />
+  <img src="{{ "/" | relative_url }}assets/MVR_headshot_raw.JPG" width="180" />
   </p>
-Kaito is a PhD student in behavioral genetics at King’s College London’s Social, Genetic, and Developmental Psychiatry (SGDP) Centre, working under the supervision of Prof. Robert Plomin. His research focuses on understanding how genetics contributes to individual differences in cognitive ability. 
+Maria is a PhD student in Statistical Genetics at King’s College London’s Social, Genetic, and Developmental Psychiatry (SGDP) Centre, working under the supervision of Dr. David Howard and Dr. Evangelos Vassos. Her research focuses on investigating sex differences in depression both at the genetic and environmental level, as well as their interplay.
 
 
 # 2024 Annual Meeting Organising Committee Member
@@ -53,6 +53,8 @@ Chris Rayner is a postdoctoral research associate at the <a href="https://www.kc
 <br>
 
 ## Previous contributors
+
+Kaito Kawakami, King's College London - Communications Manager 2024-2026
 
 Chris Lo, King's College London - Communications Manager 2022-2023
 

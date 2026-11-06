@@ -20,6 +20,8 @@ group :jekyll_plugins do
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'jekyll-paginate-v2'
+# Explicitly include csv to fix Jekyll 3.x compatibility with Ruby 3.4 on Netlify
+gem 'csv'
 
 
 gem "webrick", "~> 1.7"

@@ -8,15 +8,15 @@ title: Methods Meetings
   </p>
   
 
-The London Genetics Network (LGN) Methods Meetings are a monthly meeting in which newly developed and commonly used methodology in statistical genetics will be presented and discussed. The Methods Meetings will be a friendly and supportive opportunity for researchers to better understand and use statistical genetic methods and software, aimed to support complete beginners as well as experts. The meetings will also help connect researchers using similar methodology within and across institutions, helping to establish a useful research community.
+The London Genetics Network (LGN) Methods Meetings are monthly meetings in which newly developed and commonly used methodology in statistical genetics is be presented and discussed. The Methods Meetings are a friendly and supportive opportunity for researchers to better understand and use statistical genetic methods and software, aimed to support complete beginners as well as experts. The meetings also help connect researchers using similar methodology within and across institutions, helping to establish a useful research community.
 
-The Methods Meetings will alternate between presentations from invited speakers with specific methodological expertise, as well as journal club-style meetings led by Methods Meetings registrants. The journal club-style meetings will be led by groups of individuals to help breakdown sometimes daunting topics and provide networking opportunities for the presenters. All presentations will be recorded and made publicly available via the Open Science Framework providing a useful resource going forward.
+The Methods Meetings alternate between presentations from invited speakers with specific methodological expertise, as well as journal club-style meetings led by Methods Meetings registrants. The journal club-style meetings are led by groups of individuals to help breakdown sometimes daunting topics and provide networking opportunities for the presenters. All presentations are recorded and made publicly available via the Open Science Framework providing a useful resource going forward.
 
-The Methods Meetings will be held online. In-person meetups will also be arranged when possible.
+The Methods Meetings are held online. In-person meetups will also be arranged when possible.
 
 <br>
 
-## OSF links
+## Past meetings
 
 Contents and details of past meetings can be found on our OSF pages:
 
@@ -26,7 +26,7 @@ Meetings with invited speakers: <https://osf.io/4cqwf/>
 
 <br>
 
-## Organisers
+## Past organisers
 
 ### Dr Andrea Allegrini
 <p align="left">

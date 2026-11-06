@@ -23,6 +23,7 @@ gem 'jekyll-paginate-v2'
 # Explicitly include csv to fix Jekyll 3.x compatibility with Ruby 3.4 on Netlify
 gem 'csv'
 gem 'base64'
+gem 'bigdecimal'
 
 
 gem "webrick", "~> 1.7"

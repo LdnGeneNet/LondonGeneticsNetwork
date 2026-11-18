@@ -25,5 +25,4 @@ The London Genetics Network is funded by the <a href="https://genetics.org.uk" r
 <br> 
 
 # Our feed
-
-<a class="twitter-timeline" data-width="500" data-height="600" href="https://x.com/LdnGeneNet?ref_src=twsrc%5Etfw">Posts by LdnGeneNet</a> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+Follow us on <a href="https://www.linkedin.com/company/londongeneticsnetwork/" target="_blank" rel="noopener noreferrer">LinkedIn</a> for the latest news, events, and updates from the London Genetics Network.

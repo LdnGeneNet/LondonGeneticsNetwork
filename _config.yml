@@ -11,13 +11,13 @@ tagline:     ''
 description: ''
 url:         https://github.com/LdnGeneNet/LondonGeneticsNetwork/
 baseurl:     /
-lastmod:    '06 November 2026'
+lastmod:    '18 November 2026'
 
 author:
   name:      'London Genetics Network'
   url:       https://github.com/LdnGeneNet/LondonGeneticsNetwork/
   email:     londongeneticsnetwork@gmail.com
-  twitter: LdnGeneNet
+  LinkedIn:  londongeneticsnetwork
 
 pagination:
   indexpage: 'blog'

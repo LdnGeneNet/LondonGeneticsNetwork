@@ -7,4 +7,4 @@ To subscribe to our mailing list, please email us at: <a href="mailto:londongene
 
 If you have any proposed events and/or are interested to volunteer with us, kindly drop us an email at: <a href="mailto:londongeneticsnetwork@gmail.com">londongeneticsnetwork@gmail.com</a>.
 
-Follow us on twitter: <a href="https://twitter.com/LdnGeneNet" rel="noopener noreferrer" target="_blank">@LdnGeneNet</a>.
+Follow us on <a href="https://www.linkedin.com/company/londongeneticsnetwork/" rel="noopener noreferrer" target="_blank">LinkedIn</a>.

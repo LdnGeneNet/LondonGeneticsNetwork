@@ -56,7 +56,7 @@ Chris Rayner is a postdoctoral research associate at the <a href="https://www.kc
 
 Kaito Kawakami, King's College London - Communications Manager 2024-2026
 
-Chris Lo, King's College London - Communications Manager 2022-2023
+Chris Lo, King's College London - Communications Manager 2022-2024
 
 Leonard Frach, University College London - Communications Manager 2022-2023
 
